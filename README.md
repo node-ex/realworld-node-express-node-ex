@@ -1,28 +1,19 @@
-Welcome to Glitch
-=================
+# ![RealWorld Example App](logo.png)
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+> ### Node.js + Express codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+[Demo](https://github.com/gothinkster/realworld)&nbsp;&nbsp;&nbsp;&nbsp;[RealWorld](https://github.com/gothinkster/realworld)
 
-Find out more [about Glitch](https://glitch.com/about).
+This codebase was created to demonstrate a fully fledged fullstack application built with **Node.js + Express** including CRUD operations, authentication, routing, pagination, and more.
 
+We've gone to great lengths to adhere to the **Node.js + Express** community styleguides & best practices.
 
-Your Project
-------------
+For more information on how to this works with other frontends/backends, head over to the [RealWorld](https://github.com/gothinkster/realworld) repo.
 
-On the front-end,
-- edit `public/client.js`, `public/style.css` and `views/index.html`
-- drag in `assets`, like images or music, to add them to your project
+# How it works
 
-On the back-end,
-- your app starts at `server.js`
-- add frameworks and packages in `package.json`
-- safely store app secrets in `.env` (nobody can see this but you and people you invite)
+> Describe the general architecture of your app here
 
+# Getting started
 
-Made by [Glitch](https://glitch.com/)
--------------------
-
-
-\ ゜o゜)ノ
+> pnpm install, pnpm start, etc.
