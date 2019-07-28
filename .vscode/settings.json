@@ -1,0 +1,43 @@
+{
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": false,
+  "files.associations": {
+    ".babelrc": "jsonc",
+    ".eslintrc": "jsonc"
+  },
+  "json.format.enable": true,
+  "javascript.validate.enable": false,
+  "[shellscript]": {
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2
+  },
+  "[javascript]": {
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2
+  },
+  "[typescript]": {
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2
+  },
+  "[json]": {
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2
+  },
+  "eslint.enable": true,
+  "eslint.run": "onType",
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    {
+      "language": "javascript",
+      "autoFix": true
+    },
+    {
+      "language": "typescript",
+      "autoFix": true
+    }
+  ]
+}
